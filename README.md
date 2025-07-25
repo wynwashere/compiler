@@ -2,8 +2,10 @@
 
 > Thanks For Using ❤
 
-- **Yum = Centos**
-- **Apt = Debian, Ubuntu**
+- !! **Yum = Centos**
+- !! **Apt = Debian, Ubuntu**
+
+## How To Setup & Run It ❓
 
 1. Update -> Install Git -> Clone This Repo
 ```bash
