@@ -7,7 +7,7 @@
 
 ## How To Setup & Run It ❓
 
-1. Update -> Install Git -> Clone This Repo
+1. **Update -> Install Git -> Clone This Repo**
 ```bash
 yum update
 apt update
@@ -17,14 +17,14 @@ git clone https://github.com/wynwashere/compiler/
 ```
 
 
-2. Install Python3 -> Go To compiler Folder
+2. **Install Python3 -> Go To compiler Folder**
 ```bash
 apt install python3 -y
 yum install -y python3
 cd compiler
 ```
 
-3. Run The Script Like This - !! Change The Bot File And CNC Ip !!
+3. **Run The Script Like This - !! Change The Bot File And CNC Ip !!**
 
 ```bash
 python3 compile.py [ BOT FILE ] [ CNC IP ]
