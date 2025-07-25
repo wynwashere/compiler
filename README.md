@@ -2,8 +2,8 @@
 
 > Thanks For Using ❤
 
-- **Yum = Centos**
-- **Apt = Debian, Ubuntu**
+-  **Yum = Centos**
+-  **Apt = Debian, Ubuntu**
 
 ## How To Setup & Run It ❓
 
@@ -26,7 +26,7 @@ cd compiler
 
 3. **Run The Script Like This**
 
-# Change The Bot File To Your bot.c And CNC Ip To Your Vps For Cnc Ip ❗❗
+> Change The Bot File To Your bot.c And CNC Ip To Your Vps For Cnc Ip ❗❗
 
 ```bash
 python3 compile.py [ BOT FILE ] [ CNC IP ]
