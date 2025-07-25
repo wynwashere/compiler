@@ -1,6 +1,6 @@
 # Windy Auto Cross Compile 🚀
 
-**Yum = Centos - Apt = Ubuntu/Debian**
+- **Yum = Centos - Apt = Ubuntu/Debian**
 
 1. Update -> Install Git -> Clone This Repo
 ```bash
