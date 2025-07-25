@@ -32,6 +32,7 @@ cd compiler
 python3 compile.py [ BOT FILE ] [ CNC IP ]
 ```
 
+## Credit 📖
 > Full Coded By Void
 
 > Fixed For Python3 And More Arch By Windy
