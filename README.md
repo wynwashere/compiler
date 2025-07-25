@@ -1,6 +1,6 @@
 # Windy Auto Cross Compile 🚀
 ```bash
-python3 compile.py [ BOT PORT ] [ YOUR CNC IP ] [ CNC PORT ]
+python3 compile.py
 ```
 
 > Full Coded By Void
