@@ -1,5 +1,7 @@
 # Windy Auto Cross Compile 🚀
-````You Are Too Lazy````
+```bash
+python3 compile.py
+```
 
 > Full Coded By Void
 > More Arch By Windy
