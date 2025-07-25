@@ -2,7 +2,7 @@
 
 > Thanks For Using ❤
 
--  **Yum = Centos**
+-  **Yum = CentOS**
 -  **Apt = Debian, Ubuntu**
 
 ## How To Setup & Run It ❓
